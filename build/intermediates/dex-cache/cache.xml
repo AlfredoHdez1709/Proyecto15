@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/geekahr/AndroidStudioProjects/Proyecto015/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c93d6c41ace1335e5ea5dabc095da539fe7ed0c">
+        <dex dex="/Users/geekahr/AndroidStudioProjects/Proyecto015/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_964198a199c979ad9d79bdc4187ef64a9017354c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/geekahr/AndroidStudioProjects/Proyecto015/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1215ed5951a704419d69cbe266feef692dee3d0e">
+        <dex dex="/Users/geekahr/AndroidStudioProjects/Proyecto015/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c0d298f6cb5cbee9622f40d0c7867223ea7319ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/geekahr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/geekahr/AndroidStudioProjects/Proyecto015/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_ef0ba41b7eaa69dbb7cc944b496d51d89acfda93/classes.dex" />
+    </item>
+
+</items>

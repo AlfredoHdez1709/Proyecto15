@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/geekahr/AndroidStudioProjects/Proyecto015/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/Users/geekahr/AndroidStudioProjects/Proyecto015/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Users/geekahr/AndroidStudioProjects/Proyecto015/app/build/intermediates/res/merged/debug/menu/main_activity.xml",
+        "source": "/Users/geekahr/AndroidStudioProjects/Proyecto015/app/src/main/res/menu/main_activity.xml"
+    },
+    {
+        "merged": "/Users/geekahr/AndroidStudioProjects/Proyecto015/app/build/intermediates/res/merged/debug/menu/main_activity_l.xml",
+        "source": "/Users/geekahr/AndroidStudioProjects/Proyecto015/app/src/main/res/menu/main_activity_l.xml"
+    }
+]
